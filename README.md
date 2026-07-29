@@ -7,7 +7,7 @@
 
 ## 简介
 
-DeepReader 是一个 Claude Code Skill，能根据读物体裁自动切换分析框架，
+DeepReader 是一个 通用Skill，能根据读物体裁自动切换分析框架，
 对15种不同体裁的书籍进行深度阅读分析。
 
 ## 支持的体裁
