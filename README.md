@@ -37,12 +37,6 @@ DeepReader 是一个 通用Skill，能根据读物体裁自动切换分析框架
 - **通用维度**：读者反应日志、批判性审视、知识迁移、当代回响
 - **品牌中立**：无品牌依赖，可自由使用
 
-## 使用方式
-
-### 作为 Claude Code Skill
-
-1. 将本仓库克隆到 `~/.claude/skills/deep-reader/`
-2. 在 Claude Code 中输入触发词即可使用
 
 ### 触发词
 
